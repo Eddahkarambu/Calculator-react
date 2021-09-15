@@ -1,3 +1,20 @@
+### Author
+
+Eddah Karambu
+
+## Title
+Calculator App
+
+## Description
+The calculator app provides simple and advanced mathematical functions in a beautifully designed app.
+It performes basic calculations such as addition, subtraction, multiplication and division.
+
+
+## Website Url
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
